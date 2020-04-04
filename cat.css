@@ -32,6 +32,14 @@ h1{
         margin-bottom: 100px;
     }
 }
+.catagory{
+    text-align: center;
+    display: inline;
+}
+.grid-container{
+}
+.grid-row{
+}
 .product{
     margin-left: auto;
     margin-right: auto;
